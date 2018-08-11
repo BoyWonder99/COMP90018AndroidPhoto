@@ -72,7 +72,7 @@ public class MainActivity extends AppCompatActivity implements ActivityCompat.On
 
 
     // request code
-    private static final int PERMISSION_REQUEST_CAMERA = 0;
+    private static final int PERMISSION_REQUEST_CAMERA = 1;
 
 
     /**
